@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: probgen-2018-poster.aux
+The style file: abbrvnat.bst
+Database file #1: refs.bib
+You've used 3 entries,
+            2773 wiz_defined-function locations,
+            613 strings with 5350 characters,
+and the built_in function-call counts, 1479 in all, are:
+= -- 122
+> -- 117
+< -- 0
++ -- 39
+- -- 36
+* -- 135
+:= -- 249
+add.period$ -- 12
+call.type$ -- 3
+change.case$ -- 21
+chr.to.int$ -- 3
+cite$ -- 6
+duplicate$ -- 60
+empty$ -- 95
+format.name$ -- 39
+if$ -- 292
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 3
+newline$ -- 26
+num.names$ -- 12
+pop$ -- 35
+preamble$ -- 1
+purify$ -- 18
+quote$ -- 0
+skip$ -- 50
+stack$ -- 0
+substring$ -- 6
+swap$ -- 4
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 33
+warning$ -- 0
+while$ -- 9
+width$ -- 0
+write$ -- 51
